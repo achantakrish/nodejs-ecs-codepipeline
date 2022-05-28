@@ -13,6 +13,6 @@ app.use('/', require('./controller/controller'));
 
 // Server
 const port = process.env.PORT;
-app.listen(port, function () {
+app.listen(3000, function () {
     console.log('listening on port:' + 3000);
 });
