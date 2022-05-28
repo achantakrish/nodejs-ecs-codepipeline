@@ -14,5 +14,5 @@ app.use('/', require('./controller/controller'));
 // Server
 const port = process.env.PORT;
 app.listen(port, function () {
-    console.log('listening on port:' + port);
+    console.log('listening on port:' + 3000);
 });
