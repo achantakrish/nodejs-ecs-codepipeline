@@ -27,5 +27,5 @@ IMAGE_REPO_NAME     ecs-app
 AWS_ACCOUNT_ID      111111111111
 AWS_DEFAULT_REGION  us-east-1
 IMAGE_TAG           latest
-MEMORY_RESV         100
+MEMORY_RESV         256
 ```
